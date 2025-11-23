@@ -13,7 +13,7 @@
 
 ### Пример книги
 
-[![Обложка книги "Мастер и Маргарита"](https://placehold.co/400x600/8B4513/FFFFFF/png?text=Master+and+Margarita)](https://upload.wikimedia.org/wikipedia/ru/f/f1/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_2023_%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg)
+![Обложка книги Мастер и Маргарита](https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/27624429-mihail-bulgakov-master-i-margarita-27624429.jpg)
 *Наведите курсор на картинку для увеличения.*
 
 [Перейти в полный каталог](https://old-foliant.ru/catalog)
